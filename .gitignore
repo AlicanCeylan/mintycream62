@@ -1,0 +1,5 @@
+# Ignore GIMP project files
+*.xcf
+
+# Ignore FreeCAD backup files
+*.FCBak
