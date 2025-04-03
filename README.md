@@ -22,4 +22,4 @@ This repository documents the creation of my custom split keyboard, covering the
 - Adding **VIA/Vial compatibility**  
 - Designing a **PCB version**  
 
-readme is still under construction. please be patient. Thank you !
+readme and repository are still under construction. please be patient. Thank you !
