@@ -14,8 +14,8 @@ This repository documents the creation of my custom split keyboard, covering the
 - 🎨 **Case Design** – Custom case options  
 
 ## 🛠 Tools & Components  
-- **Microcontroller**: [your choice of RP2040 based microcontroller]  
-- **Firmware**: [QMK/VIA/Vial]  
+- **Microcontroller**: your choice of RP2040 based microcontroller  
+- **Firmware**: QMK/VIA/Vial  
 - **Software**: KiCad (PCB design), QMK Toolbox  
 
 ## 📝 Notes & Future Plans  
