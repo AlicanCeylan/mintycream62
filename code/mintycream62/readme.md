@@ -2,11 +2,10 @@
 
 ![handwired/mintycream62](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+A handwired ortholinear-staggered-split keyboard with 62 keys
 
 * Keyboard Maintainer: [Alican Ceylan](https://github.com/alicanceylan)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: RP2040
 
 Make example for this keyboard (after setting up your build environment):
 
