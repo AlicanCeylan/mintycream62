@@ -1,6 +1,5 @@
 # handwired/mintycream62
 
-![handwired/mintycream62](imgur.com image replace me!)
 
 A handwired ortholinear-staggered-split keyboard with 62 keys
 
